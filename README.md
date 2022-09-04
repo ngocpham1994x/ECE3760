@@ -39,7 +39,7 @@ References:
 - Since my wiring is common cathode, my program is sending LOW to turn LED ON, and sending HIGH to turn LED OFF
 
 
-## CREDITS & TEAM MEMBERS:
+## CONTRIBUTORS:
 <table>
 <tr>
     <td style="text-align: center;">
