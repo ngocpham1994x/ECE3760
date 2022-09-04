@@ -3,7 +3,7 @@
 
 Demonstration / Progress Videos [here](https://www.youtube.com/playlist?list=PL25XFi5JMg36iqCR__kG-orZFBlpt5zU0)
 
-References:
+## References:
 
 - [Getting Started with ESP-NOW (ESP32 with Arduino IDE)](https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/)
 
@@ -18,7 +18,7 @@ References:
 - If skip wants to send sweep soft command to Left sweeper: press the Left button
 - If skip wants to send stop command: press the Stop button to broadcast stop command to both sweepers
 
-## In other words:
+In other words:
 - Stop: press the stop button
 - Hard sweep: holding down on a button 
 - Soft sweep: press a button
